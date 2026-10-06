@@ -1,3 +1,4 @@
+/model
 # docker-didattica
 
 Struttura per la gestione di progetti didattici PHP/MariaDB con Docker.
