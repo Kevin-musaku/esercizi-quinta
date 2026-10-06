@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d7f1efa-e323-4dbd-95e5-21620fbd1e44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/primo-progetto/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/templates/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/hello-world.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/hello-world.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="39" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kevin-musaku&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kevin-musaku/esercizi-quinta.git&quot;,
+    &quot;accountId&quot;: &quot;a00d7cb6-b105-498e-8bcc-b5933a4f9e6a&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2957560414202365" />
+      <entry key="MS500" value="3.1336943413467804" />
+      <entry key="S2" value="5.512924632120689" />
+      <entry key="S5" value="7.9556950570882154" />
+      <entry key="S10" value="11.493163037313877" />
+      <entry key="S30" value="17.100772750416127" />
+      <entry key="S60" value="19.309284242730325" />
+      <entry key="M2" value="20.587851304380866" />
+      <entry key="M5" value="21.601014542023172" />
+      <entry key="M10" value="23.704936980120817" />
+      <entry key="M15" value="26.246036648296514" />
+      <entry key="M30" value="31.783633034877695" />
+      <entry key="H1" value="36.69394552054086" />
+      <entry key="H2" value="39.984648282592566" />
+      <entry key="H4" value="41.89243712989514" />
+      <entry key="D1" value="43.63399802255525" />
+      <entry key="W1" value="43.947341093671426" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2502342432719904" />
+      <entry key="MS500" value="3.077128264948869" />
+      <entry key="S2" value="5.46498464498578" />
+      <entry key="S5" value="7.928613980980789" />
+      <entry key="S10" value="11.476632867961971" />
+      <entry key="S30" value="17.093962682168122" />
+      <entry key="S60" value="19.30563642548182" />
+      <entry key="M2" value="20.585957649634928" />
+      <entry key="M5" value="21.60013845812927" />
+      <entry key="M10" value="23.704044267116316" />
+      <entry key="M15" value="26.245055169904173" />
+      <entry key="M30" value="31.78272678627142" />
+      <entry key="H1" value="36.69331114788695" />
+      <entry key="H2" value="39.98427096387125" />
+      <entry key="H4" value="41.89223113238228" />
+      <entry key="D1" value="43.63396106065032" />
+      <entry key="W1" value="43.94733574594869" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KGZOilJNlqNUzMCNsl8eKFH1Fg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/kevinmusaku/PhpstormProjects/esercizi-quinta",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/progetto-template/www" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/progetto-template" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10968.76" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10968.76" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d7f1efa-e323-4dbd-95e5-21620fbd1e44" name="Changes" comment="" />
+      <created>1791185836483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791185836483</updated>
+      <workItem from="1791185838036" duration="124000" />
+      <workItem from="1791185985837" duration="701000" />
+      <workItem from="1791217548758" duration="4163000" />
+      <workItem from="1791274046101" duration="2262000" />
+      <workItem from="1791276510940" duration="165000" />
+      <workItem from="1791276681003" duration="2646000" />
+      <workItem from="1791279484481" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
